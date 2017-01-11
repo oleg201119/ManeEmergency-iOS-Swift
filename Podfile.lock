@@ -1,0 +1,50 @@
+PODS:
+  - Bolts/Tasks (1.8.4)
+  - DatePickerDialog (1.1.4)
+  - FSCalendar (2.3.1)
+  - HCSStarRatingView (1.4.5)
+  - KMPlaceholderTextView (1.2.2)
+  - MZAppearance (1.1.6)
+  - MZFormSheetPresentationController (2.4.1):
+    - MZAppearance
+  - Parse (1.14.2):
+    - Bolts/Tasks (~> 1.8)
+  - ParseUI (1.2.0):
+    - Bolts/Tasks (~> 1.3)
+    - Parse (~> 1.9)
+  - SideMenuController (0.1.6)
+  - SVProgressHUD (2.0.3)
+  - SwiftyStoreKit (0.3.0)
+  - UIColor_Hex_Swift (2.1)
+
+DEPENDENCIES:
+  - DatePickerDialog
+  - FSCalendar
+  - HCSStarRatingView (~> 1.4.5)
+  - KMPlaceholderTextView (~> 1.2.2)
+  - MZFormSheetPresentationController
+  - Parse
+  - ParseUI
+  - SideMenuController (~> 0.1.6)
+  - SVProgressHUD
+  - SwiftyStoreKit
+  - UIColor_Hex_Swift (~> 2.1)
+
+SPEC CHECKSUMS:
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  DatePickerDialog: f23eaadaba1177d7f60ad58a57f81071df856fc9
+  FSCalendar: 6a68532ec1228e389c3c7274e3410b78702f77b6
+  HCSStarRatingView: bff3f89314d3b5013ce826ea11897d3129ff6b8c
+  KMPlaceholderTextView: bbff031935d84f7eedb585e7f77120020fbae9e8
+  MZAppearance: 0c06d3fa9cc55142f1da14bc8631fbe8fd6e19d5
+  MZFormSheetPresentationController: 730bf8879cd637d84462ef5343fca65ad6bf1fc0
+  Parse: 4335d65f40cb3d43190d723144bbe1afb9c38230
+  ParseUI: af2eba584799da4a9fbdac0e178662d7438b502e
+  SideMenuController: 442d67af6d5892934065d42d5c1c3b7d5be4953e
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  SwiftyStoreKit: 6df86a58380d591d06f204eaee92bfaf39704627
+  UIColor_Hex_Swift: e91dc51f6bf252ec7bf74c8704ceedeeb7640c1c
+
+PODFILE CHECKSUM: 883430ec968d4a37c9b475ebcd3774144c6864a9
+
+COCOAPODS: 1.0.1
